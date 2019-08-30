@@ -1,0 +1,2 @@
+ - Build using Makefile
+ - To execute, "huffman 34words.txt"
